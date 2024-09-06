@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your Node.js API project that handles authentication with JWT, MongoDB, and bcryptjs:
 
----
 
 # Node.js Authentication API with JWT
 
